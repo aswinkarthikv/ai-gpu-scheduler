@@ -82,12 +82,3 @@ Access the dashboard via `http://localhost:5173`.
    *Dashboard loads at `http://localhost:5173`*
 
 ---
-
-## 📝 Resume Bullet Points (Copy-Paste Ready)
-To clearly articulate the high-level engineering accomplished here:
-> 🎯 **Software Engineer | AI Infra Task**
-> - *Architected a distributed Job Scheduling macro-service (Mini GPUaaS) executing latency-aware AI inference routing logic using Node.js and WebSockets.*
-> - *Engineered a custom priority-based asynchronous queue simulating a standard Redis/Celery queue cluster; actively preventing thread starvation and guaranteeing lower latency routing for higher priority traffic.*
-> - *Implemented rigorous fault-tolerance safety nets mitigating simulated node connection drops using Exponential Backoff retry algorithms.*
-> - *Containerized the full-stack architecture using Docker Compose, establishing clean microservice separation and CI/CD readiness.*
-> - *Developed a dynamic React tracking dashboard with high-refresh telemetry updating throughput statistics, queue lengths, and active worker utilization.*
